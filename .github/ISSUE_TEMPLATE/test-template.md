@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-[Link](https://athena.sommrey.de)
+[Link](<link>)
